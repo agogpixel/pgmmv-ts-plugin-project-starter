@@ -1,0 +1,6 @@
+.git/*
+.husky/*
+.vscode/*
+coverage/*
+dist/*
+node_modules/*

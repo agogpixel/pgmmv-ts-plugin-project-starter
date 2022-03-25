@@ -1,0 +1,6 @@
+{
+  "PLUGIN_NAME": "pgmmv-plugin-project-starter",
+  "PLUGIN_DESCRIPTION": "Pixel Game Maker MV plugin project starter with TypeScript, webpack, & jest.",
+  "PLUGIN_AUTHOR": "kidthales was here",
+  "PLUGIN_HELP": "See help.md"
+}

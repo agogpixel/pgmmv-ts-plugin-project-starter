@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["ES5"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "typeRoots": ["node_modules/@types"],
+    "types": ["node", "jest", "@agogpixel/pgmmv-ts"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true
+  },
+  "exclude": ["dist"]
+}
