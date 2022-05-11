@@ -1,4 +1,4 @@
-# agogpixel/pgmmv-plugin-project-starter
+# agogpixel/pgmmv-ts-plugin-project-starter
 
 Pixel Game Maker MV plugin project starter with TypeScript, webpack, & jest.
 
